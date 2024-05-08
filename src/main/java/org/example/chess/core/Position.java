@@ -1,7 +1,6 @@
-package org.example.chess.components;
+package org.example.chess.core;
 
 import lombok.Getter;
-import org.example.chess.core.Piece;
 
 import java.util.Set;
 

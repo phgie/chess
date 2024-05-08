@@ -1,10 +1,11 @@
-package org.example.chess.components;
+package org.example.chess;
 
 import lombok.RequiredArgsConstructor;
 import lombok.val;
 import org.example.chess.core.Board;
 import org.example.chess.core.Knight;
 import org.example.chess.core.Piece;
+import org.example.chess.core.Position;
 
 import java.awt.*;
 import java.util.ArrayList;

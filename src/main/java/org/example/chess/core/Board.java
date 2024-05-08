@@ -2,7 +2,6 @@ package org.example.chess.core;
 
 import lombok.RequiredArgsConstructor;
 import lombok.val;
-import org.example.chess.components.Position;
 
 import java.awt.*;
 
