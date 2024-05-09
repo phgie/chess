@@ -18,7 +18,7 @@ public abstract class Piece {
     private final COLOR color;
     private final Point coordinates;
 
-    public abstract Set<Point> getTargetFields(Point minPoint, Point maxPoint);
+    public abstract Set<Point> getReachableFields(Point minPoint, Point maxPoint);
 
     @Override
     public boolean equals(Object object) {
